@@ -1,0 +1,18 @@
+{
+    "name": "Bhaskar Sawant",
+    "short_name": "Bhaskar Sawant",
+    "icons": [{
+            "src": "/src/assets/icon/site1.png",
+            "sizes": "73x60",
+            "type": "image/png"
+        },
+        {
+            "src": "/src/assets/icon/site1.png",
+            "sizes": "73x60",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
